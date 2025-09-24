@@ -4,4 +4,7 @@ version = "0.1.0"
 description = "ENPH 353 LAB 4"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pyqt5>=5.15.11",
+    "python-qt-binding>=0.3.4",
+]
